@@ -1,1 +1,4 @@
 # NM2023TMID31420
+Dashboard public link:- https://public.tableau.com/views/Book1_16964795134180/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link                                       https://public.tableau.com/views/Book1_16964795134180/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link                                       https://public.tableau.com/views/Book1_16964795134180/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
+story public link:- https://public.tableau.com/views/Book1_16964795134180/Story1?:language=en-US&:display_count=n&:origin=viz_share_link                                       https://public.tableau.com/views/Book1_16964795134180/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+video demonstration link:- https://drive.google.com/file/d/1itkHtuXiEg6w5C0Wj-K0ur7FOjehzsIk/view?usp=drivesdk
